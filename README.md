@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -🔭 I’m currently working on my sequencer app
 </br>-🌱 I’m currently learning Tone.js, Apollo-GraphQl
-</br>-👯 I’m looking to collaborate on anything related to music or anything challenging!!
+</br>-👯 I’m looking to collaborate on anything related to music or something challenging!!
 </br>-📫 How to reach me:
 		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/ugene-romashov/
 		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email: ugeneromashov@yahoo.com 
