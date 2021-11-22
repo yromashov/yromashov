@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### My name is Ugene and I love to code!  I really enjoy working on challenging projects and learning new tech. 
 
--🔭 I’m currently working on my sequencer app
+-🔭 I’m currently working on my NASA app
 </br>-🌱 I’m currently learning Tone.js, Apollo-GraphQl
 </br>-👯 I’m looking to collaborate on anything challenging!!
 </br>-📫 How to reach me:
